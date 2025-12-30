@@ -1,0 +1,6 @@
+# Minimal dependencies for Vercel Python serverless functions
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+certifi>=2023.0.0
+lxml
+
